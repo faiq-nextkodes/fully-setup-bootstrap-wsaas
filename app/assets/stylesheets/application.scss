@@ -1,0 +1,14 @@
+// Remove all the existing content and replace with:
+
+// Bootstrap imports
+@import "bootstrap";
+
+// Your custom styles
+body {
+  padding-top: 20px;
+}
+
+.custom-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
